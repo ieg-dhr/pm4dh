@@ -15,10 +15,13 @@ Die DH basieren auf der Zusammenarbeit und Koproduktion verschiedener Diszipline
 ### Anmeldung
 Um Anmeldung wird gebeten bis zum 11.03.21, unter: [digital@ieg-mainz.de](digital@ieg-mainz.de).
 
-### Highlights
+### Interviews
 Stay tuned.
 
 ### Team
-- Fabian Cremer, Leibniz-Institut für Europäische Geschichte, <a href="https://orcid.org/0000-0001-8251-9727"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0001-8251-9727</a>, <a href="https://twitter.com/fabian_cremer"><img alt="Twitter logo" src="https://github.com/ieg-dhr/vdhd-abstracts-labor/raw/main/files/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @fabian_cremer</a>
-- Swantje Dogunke, Bauhaus-Universität Weimar, <a href="https://orcid.org/0000-0002-5293-7044"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0002-5293-7044</a>, <a href="https://twitter.com/swagunke"><img alt="Twitter logo" src="https://github.com/ieg-dhr/vdhd-abstracts-labor/raw/main/files/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @swagunke</a>
-- Thorsten Wübbena, Leibniz-Institut für Europäische Geschichte, <a href="https://orcid.org/0000-0001-8172-6097"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0001-8172-6097</a>, <a href="https://twitter.com/ThWuebbena"><img alt="Twitter logo" src="https://github.com/ieg-dhr/vdhd-abstracts-labor/raw/main/files/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @ThWuebbena</a>
+- Fabian Cremer, Leibniz-Institut für Europäische Geschichte \
+<a href="https://orcid.org/0000-0001-8251-9727"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0001-8251-9727</a>, <a href="https://twitter.com/fabian_cremer"><img alt="Twitter logo" src="https://github.com/ieg-dhr/vdhd-abstracts-labor/raw/main/files/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @fabian_cremer</a>
+- Swantje Dogunke, Bauhaus-Universität Weimar \
+<a href="https://orcid.org/0000-0002-5293-7044"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0002-5293-7044</a>, <a href="https://twitter.com/swagunke"><img alt="Twitter logo" src="https://github.com/ieg-dhr/vdhd-abstracts-labor/raw/main/files/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @swagunke</a>
+- Thorsten Wübbena, Leibniz-Institut für Europäische Geschichte \
+<a href="https://orcid.org/0000-0001-8172-6097"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0001-8172-6097</a>, <a href="https://twitter.com/ThWuebbena"><img alt="Twitter logo" src="https://github.com/ieg-dhr/vdhd-abstracts-labor/raw/main/files/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @ThWuebbena</a>
