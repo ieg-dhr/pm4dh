@@ -13,7 +13,7 @@ Die DH basieren auf der Zusammenarbeit und Koproduktion verschiedener Diszipline
 - Rekapitulierung (partizipativ): Mittwoch, 15.09.2021, 14-16 Uhr
 
 ### Anmeldung
-Um Anmeldung wird gebeten bis zum 11.03.21, unter: [digital@ieg-mainz.de](digital@ieg-mainz.de).
+Um Anmeldung wird gebeten bis zum 11.03.21, unter: [digital@ieg-mainz.de](mailto:digital@ieg-mainz.de).
 
 ### Interviews
 Stay tuned.
