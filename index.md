@@ -7,8 +7,7 @@ Eine Veranstaltung im Rahmen der [vDHd21](https://vdhd2021.hypotheses.org/187).
 ### Abstract des Abstracts
 Die DH basieren auf der Zusammenarbeit und Koproduktion verschiedener Disziplinen und Kulturen, so dass Kompetenzen im Projektmanagement dann auch zu den zentralen Methoden im Bereich der digitalen Geistes- und Kulturwissenschaften gehören. Der Wunsch nach einer professionellen Planung, Koordinierung und Steuerung von Forschungsprojekten lässt sich aus vielen Erfahrungen ablesen, aber im deutschsprachigen Raum finden sich nur wenige Zeugnisse einer solchen Professionalisierung. Mit dieser Veranstaltungsreihe wollen wir gemeinsam mit Interessierten aus der deutschsprachigen DH-Community drei Interviews mit Expert:innen aus verschiedenen Bereichen führen und so das Thema Projektmanagement in den Digital Humanities weiterdenken. Das virtuelle Planungstreffen hilft uns, eine kurze Einführung zu geben, Erfahrungen aus der Praxis auszutauschen und gemeinsam die Interviews vorzubereiten. Die dann von euren Fragen geleiteten Interviews werden aufgezeichnet und nachhaltig veröffentlicht. In einem virtuellen Abschlusstreffen werten wir die Darstellungen gemeinsam aus und entwickeln Perspektiven für eine Professionalisierung des Projektmanagements in den Digital Humanities im deutschsprachigen Raum. 
 
-[zum vollständigen Abstract](unfaq-abstract.md
-)
+[zum vollständigen Abstract](unfaq-abstract)
 
 ### Termine
 - Initiierung (partizipativ): Mittwoch, 24.03.2021, 10-12 Uhr
