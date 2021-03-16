@@ -18,7 +18,16 @@ Die DH basieren auf der Zusammenarbeit und Koproduktion verschiedener Diszipline
 Um Anmeldung wird gebeten bis zum 11.03.21, unter: [digital@ieg-mainz.de](mailto:digital@ieg-mainz.de).
 
 ### Interviews
-Stay tuned.
+Für die Themenkomplexe „Lehre“, „Infrastruktur“ und „Förderung“ konnten wir die folgenden Expert:innen für unsere Interviewreihe gewinnen:
+
+**Dr. Hendrikje Carius**
+Hendrikje Carius ist stellvertretende Direktorin und Leiterin der Abteilung Benutzung und Digitale Bibliothek der Forschungsbibliothek Gotha. Sie hat Erfahrung in vielfältigen Digital Humanities-Projekten und ist Co-Sprecherin des Netzwerks für digitale Geisteswissenschaften und Citizen Science der Universität Erfurt.
+
+**Dr. Markus Frank**
+Markus Frank koordiniert seit 2017 den Studiengang „Digital Humanities – Sprachwissenschaften“ an der LMU München, in dem er zu den zentralen Themenbereichen  Projektmanagement und Forschungsdesign in den DH lehrt. Zu seiner Forschungspraxis gehört neben Forschungsfragen der Linguistik auch die Konzeption und Entwicklung digitaler Methoden und Informationstechnologie in kooperativen Forschungsprojekten.
+
+**Dr. Vera Szöllösi-Brenig**
+Förderreferentin der VolkswagenStiftung. Ihre Fachgebiete dort  sind u.a. Kunstgeschichte, Kulturwissenschaften sowie Sprach- und Literaturwissenschaften. Darüber hinaus betreute sie die Förderinitiative „'Mixed Methods' in den Geisteswissenschaften? –  Fördermöglichkeiten für die Verknüpfung und das Zusammenwirken von qualitativ-hermeneutischen und digitalen Verfahren“. Team „Wissen über Wissen“.
 
 ### Team
 - Fabian Cremer, Leibniz-Institut für Europäische Geschichte \
