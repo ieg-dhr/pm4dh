@@ -20,7 +20,7 @@ Für die Themenkomplexe „Lehre“, „Infrastruktur“ und „Förderung“ ko
 
 **Dr. Hendrikje Carius**
 Hendrikje Carius ist stellvertretende Direktorin und Leiterin der Abteilung Benutzung und Digitale Bibliothek der Forschungsbibliothek Gotha. Sie hat Erfahrung in vielfältigen Digital Humanities-Projekten und ist Co-Sprecherin des Netzwerks für digitale Geisteswissenschaften und Citizen Science der Universität Erfurt.
-- Hendrikje Carius: *Unfrequently Asked Questions. Interviewreihe zu Projektmanagement in den Digital Humanities. Perspektive Bibliothek.* Interviewt von Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena, 2021. [http://dx.doi.org/10.17613/etzb-2r21(http://dx.doi.org/10.17613/etzb-2r21)
+- Hendrikje Carius: *Unfrequently Asked Questions. Interviewreihe zu Projektmanagement in den Digital Humanities. Perspektive Bibliothek.* Interviewt von Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena, 2021. [http://dx.doi.org/10.17613/etzb-2r21](http://dx.doi.org/10.17613/etzb-2r21)
 
 **Dr. Markus Frank**
 Markus Frank koordiniert seit 2017 den Studiengang „Digital Humanities – Sprachwissenschaften“ an der LMU München, in dem er zu den zentralen Themenbereichen  Projektmanagement und Forschungsdesign in den DH lehrt. Zu seiner Forschungspraxis gehört neben Forschungsfragen der Linguistik auch die Konzeption und Entwicklung digitaler Methoden und Informationstechnologie in kooperativen Forschungsprojekten.
