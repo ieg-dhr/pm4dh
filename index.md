@@ -20,15 +20,15 @@ Für die Themenkomplexe „Lehre“, „Infrastruktur“ und „Förderung“ ko
 
 **Dr. Hendrikje Carius**
 Hendrikje Carius ist stellvertretende Direktorin und Leiterin der Abteilung Benutzung und Digitale Bibliothek der Forschungsbibliothek Gotha. Sie hat Erfahrung in vielfältigen Digital Humanities-Projekten und ist Co-Sprecherin des Netzwerks für digitale Geisteswissenschaften und Citizen Science der Universität Erfurt.
-- Hendrikje Carius: *Unfrequently Asked Questions. Interviewreihe zu Projektmanagement in den Digital Humanities. Perspektive Bibliothek.* Interviewt von Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena, 2021. http://dx.doi.org/10.17613/etzb-2r21
+- Hendrikje Carius: *Unfrequently Asked Questions. Interviewreihe zu Projektmanagement in den Digital Humanities. Perspektive Bibliothek.* Interviewt von Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena, 2021. [http://dx.doi.org/10.17613/etzb-2r21(http://dx.doi.org/10.17613/etzb-2r21)
 
 **Dr. Markus Frank**
 Markus Frank koordiniert seit 2017 den Studiengang „Digital Humanities – Sprachwissenschaften“ an der LMU München, in dem er zu den zentralen Themenbereichen  Projektmanagement und Forschungsdesign in den DH lehrt. Zu seiner Forschungspraxis gehört neben Forschungsfragen der Linguistik auch die Konzeption und Entwicklung digitaler Methoden und Informationstechnologie in kooperativen Forschungsprojekten.
--	Markus Frank: *Unfrequently Asked Questions. Interviewreihe zu Projektmanagement in den Digital Humanities. Perspektive Lehre.* Interviewt von Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena, 2021. http://dx.doi.org/10.17613/3pqd-xd10
+-	Markus Frank: *Unfrequently Asked Questions. Interviewreihe zu Projektmanagement in den Digital Humanities. Perspektive Lehre.* Interviewt von Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena, 2021. [http://dx.doi.org/10.17613/3pqd-xd10](http://dx.doi.org/10.17613/3pqd-xd10)
 
 **Dr. Vera Szöllösi-Brenig**
 Förderreferentin der VolkswagenStiftung. Ihre Fachgebiete dort  sind u.a. Kunstgeschichte, Kulturwissenschaften sowie Sprach- und Literaturwissenschaften. Darüber hinaus betreute sie die Förderinitiative „'Mixed Methods' in den Geisteswissenschaften? –  Fördermöglichkeiten für die Verknüpfung und das Zusammenwirken von qualitativ-hermeneutischen und digitalen Verfahren“. Team „Wissen über Wissen“.
--	Vera Szöllösi-Brenig: *Unfrequently Asked Questions. Interviewreihe zu Projektmanagement in den Digital Humanities. Perspektive Forschungsförderung.* Interviewt von Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena, 2021. http://dx.doi.org/10.17613/01nb-x140
+-	Vera Szöllösi-Brenig: *Unfrequently Asked Questions. Interviewreihe zu Projektmanagement in den Digital Humanities. Perspektive Forschungsförderung.* Interviewt von Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena, 2021. [http://dx.doi.org/10.17613/01nb-x140](http://dx.doi.org/10.17613/01nb-x140)
 
 ### Termine
 - Initiierung (partizipativ): Mittwoch, 24.03.2021, 10-12 Uhr
