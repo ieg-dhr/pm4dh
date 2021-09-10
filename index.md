@@ -24,7 +24,7 @@ Hendrikje Carius ist stellvertretende Direktorin und Leiterin der Abteilung Benu
 
 **Dr. Markus Frank**
 Markus Frank koordiniert seit 2017 den Studiengang „Digital Humanities – Sprachwissenschaften“ an der LMU München, in dem er zu den zentralen Themenbereichen  Projektmanagement und Forschungsdesign in den DH lehrt. Zu seiner Forschungspraxis gehört neben Forschungsfragen der Linguistik auch die Konzeption und Entwicklung digitaler Methoden und Informationstechnologie in kooperativen Forschungsprojekten.
--	Markus Frank: *Unfrequently Asked Questions. Interviewreihe zu Projektmanagement in den Digital Humanities. Perspektive Lehre.* Interviewt von Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena, 2021. [http://dx.doi.org/10.17613/3pqd-xd10](http://dx.doi.org/10.17613/3pqd-xd10)
+-	Markus Frank: *Unfrequently Asked Questions. Interviewreihe zu Projektmanagement in den Digital Humanities. Perspektive Lehre.* Interviewt von Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena, 2021. [https://doi.org/10.17613/gs9g-yq24](https://doi.org/10.17613/gs9g-yq24)
 
 **Dr. Vera Szöllösi-Brenig**
 Förderreferentin der VolkswagenStiftung. Ihre Fachgebiete dort  sind u.a. Kunstgeschichte, Kulturwissenschaften sowie Sprach- und Literaturwissenschaften. Darüber hinaus betreute sie die Förderinitiative „'Mixed Methods' in den Geisteswissenschaften? –  Fördermöglichkeiten für die Verknüpfung und das Zusammenwirken von qualitativ-hermeneutischen und digitalen Verfahren“. Team „Wissen über Wissen“.
