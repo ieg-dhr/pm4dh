@@ -9,7 +9,8 @@
 - **Abstract**: Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena. „Unfrequently Asked Questions: Interviewreihe zu Projektmanagement in den Digital Humanities“. virtuell: Zenodo, 2021. [https://doi.org/10.5281/zenodo.5850758](https://doi.org/10.5281/zenodo.5850758).
 - **Bericht**: Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena. „‚Experiment, Ergebnis, Erkenntnis‘ – Dokumentation einer Interviewreihe zu Projektmanagement in den Digital Humanities“. Digital Humanities Lab (blog), 15. Oktober 2021. [https://dhlab.hypotheses.org/2251](https://dhlab.hypotheses.org/2251).
 
-### Plötzlich Projektmanagament! Annäherung an eine Kernkompetenz in den Digital Humanities Eine Übung im Masterstudiengang Digitale Methodik in den Geistes- und Kulturwissenschaften
+### Plötzlich Projektmanagament! Annäherung an eine Kernkompetenz in den Digital Humanities
+Eine Übung im Masterstudiengang [Digitale Methodik in den Geistes- und Kulturwissenschaften, Mainz](https://www.digitale-methodik.uni-mainz.de/)
   - **Syllabus**: Fabian Cremer, und Thorsten Wübbena. „Plötzlich Projektmanagement! Annäherung an eine Kernkompetenz in den Digital Humanities“. Syllabus, 8. März 2021. [http://dx.doi.org/10.17613/t7pa-8d53](http://dx.doi.org/10.17613/t7pa-8d53).
 
 ## PM4DH-Team
