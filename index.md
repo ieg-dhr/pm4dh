@@ -1,41 +1,22 @@
-Laufende Aktivität:
-## Unfrequently Asked Questions
-### Interviewreihe zu Projektmanagement in den Digital Humanities
+# Aktivitäten zu Projektmanagement in den Digital Humanities
 
-Eine Veranstaltung im Rahmen der [vDHd21](https://vdhd2021.hypotheses.org/187).
+## letzte Aktivitäten und Veröffentlichungen
+- Peer-to-Peer-Workshop zum Projektmanagement in den Digital Humanities, DHd 2022
+  - Abstract: Fabian Cremer, Swantje Dogunke, Anna Neubert, und Thorsten Wübbena. „Peer-to-Peer-Workshop zum Projekt Management in den Digital Humanities“. Potsdam: Zenodo, 2022. [https://doi.org/10.5281/zenodo.6327961](https://doi.org/10.5281/zenodo.6327961).
+  - Bericht: Fabian Cremer, Swantje Dogunke, Jonathan Geiger, Anja Gerber, Anna Maria Neubert, Julian Schulz, und Thorsten Wübbena. „Projektmanagement in den Digital Humanities – World Café auf der DHd 2022“. Digital Humanities Lab (blog), 25. Mai 2022. [https://dhlab.hypotheses.org/2960](https://dhlab.hypotheses.org/2960).
+- Unfrequently Asked Questions. Interviewreihe zu Projektmanagement in den Digital Humanities, vDHd 2021
+  - Projektseite: [https://ieg-dhr.github.io/pm4dh/unfaq](https://ieg-dhr.github.io/pm4dh/unfaq)
+  - Abstract: Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena. „Unfrequently Asked Questions: Interviewreihe zu Projektmanagement in den Digital Humanities“. virtuell: Zenodo, 2021. [https://doi.org/10.5281/zenodo.5850758](https://doi.org/10.5281/zenodo.5850758).
+  - Bericht: Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena. „‚Experiment, Ergebnis, Erkenntnis‘ – Dokumentation einer Interviewreihe zu Projektmanagement in den Digital Humanities“. Digital Humanities Lab (blog), 15. Oktober 2021. [https://dhlab.hypotheses.org/2251](https://dhlab.hypotheses.org/2251).
+- Plötzlich Projektmanagament! Annäherung an eine Kernkompetenz in den Digital Humanities Eine Übung im Masterstudiengang Digitale Methodik in den Geistes- und Kulturwissenschaften
+  - Syllabus: Fabian Cremer, und Thorsten Wübbena. „Plötzlich Projektmanagement! Annäherung an eine Kernkompetenz in den Digital Humanities“. Syllabus, 8. März 2021. [http://dx.doi.org/10.17613/t7pa-8d53](http://dx.doi.org/10.17613/t7pa-8d53).
 
-### Abstract des Abstracts
-Die DH basieren auf der Zusammenarbeit und Koproduktion verschiedener Disziplinen und Kulturen, so dass Kompetenzen im Projektmanagement dann auch zu den zentralen Methoden im Bereich der digitalen Geistes- und Kulturwissenschaften gehören. Der Wunsch nach einer professionellen Planung, Koordinierung und Steuerung von Forschungsprojekten lässt sich aus vielen Erfahrungen ablesen, aber im deutschsprachigen Raum finden sich nur wenige Zeugnisse einer solchen Professionalisierung. Mit dieser Veranstaltungsreihe wollen wir gemeinsam mit Interessierten aus der deutschsprachigen DH-Community drei Interviews mit Expert:innen aus verschiedenen Bereichen führen und so das Thema Projektmanagement in den Digital Humanities weiterdenken. Das virtuelle Planungstreffen hilft uns, eine kurze Einführung zu geben, Erfahrungen aus der Praxis auszutauschen und gemeinsam die Interviews vorzubereiten. Die dann von euren Fragen geleiteten Interviews werden aufgezeichnet und nachhaltig veröffentlicht. In einem virtuellen Abschlusstreffen werten wir die Darstellungen gemeinsam aus und entwickeln Perspektiven für eine Professionalisierung des Projektmanagements in den Digital Humanities im deutschsprachigen Raum. 
-
-[zum vollständigen Abstract](unfaq-abstract)
-
-### Interviews
-Für die Themenkomplexe „Lehre“, „Infrastruktur“ und „Förderung“ konnten wir die folgenden Expert:innen für unsere Interviewreihe gewinnen:
-
-**Dr. Hendrikje Carius**
-Hendrikje Carius ist stellvertretende Direktorin und Leiterin der Abteilung Benutzung und Digitale Bibliothek der Forschungsbibliothek Gotha. Sie hat Erfahrung in vielfältigen Digital Humanities-Projekten und ist Co-Sprecherin des Netzwerks für digitale Geisteswissenschaften und Citizen Science der Universität Erfurt.
-- Hendrikje Carius: *Unfrequently Asked Questions. Interviewreihe zu Projektmanagement in den Digital Humanities. Perspektive Bibliothek.* Interviewt von Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena, 2021. [http://dx.doi.org/10.17613/etzb-2r21](http://dx.doi.org/10.17613/etzb-2r21)
-
-**Dr. Markus Frank**
-Markus Frank koordiniert seit 2017 den Studiengang „Digital Humanities – Sprachwissenschaften“ an der LMU München, in dem er zu den zentralen Themenbereichen  Projektmanagement und Forschungsdesign in den DH lehrt. Zu seiner Forschungspraxis gehört neben Forschungsfragen der Linguistik auch die Konzeption und Entwicklung digitaler Methoden und Informationstechnologie in kooperativen Forschungsprojekten.
--	Markus Frank: *Unfrequently Asked Questions. Interviewreihe zu Projektmanagement in den Digital Humanities. Perspektive Lehre.* Interviewt von Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena, 2021. [https://doi.org/10.17613/gs9g-yq24](https://doi.org/10.17613/gs9g-yq24)
-
-**Dr. Vera Szöllösi-Brenig**
-Förderreferentin der VolkswagenStiftung. Ihre Fachgebiete dort  sind u.a. Kunstgeschichte, Kulturwissenschaften sowie Sprach- und Literaturwissenschaften. Darüber hinaus betreute sie die Förderinitiative „'Mixed Methods' in den Geisteswissenschaften? –  Fördermöglichkeiten für die Verknüpfung und das Zusammenwirken von qualitativ-hermeneutischen und digitalen Verfahren“. Team „Wissen über Wissen“.
--	Vera Szöllösi-Brenig: *Unfrequently Asked Questions. Interviewreihe zu Projektmanagement in den Digital Humanities. Perspektive Forschungsförderung.* Interviewt von Fabian Cremer, Swantje Dogunke, und Thorsten Wübbena, 2021. [http://dx.doi.org/10.17613/01nb-x140](http://dx.doi.org/10.17613/01nb-x140)
-
-### Termine
-- Initiierung (partizipativ): Mittwoch, 24.03.2021, 10-12 Uhr
-- Interviews: KW 13 – 36 2021
-- Rekapitulierung (partizipativ): Mittwoch, 15.09.2021, 14-16 Uhr
-
-### Bibliografie
-- [PM4DH@vDHd2021@Zotero](https://www.zotero.org/groups/2785027/vdhd2021/collections/VHXZ57G7)
-
-### Team
+## Team
 - Fabian Cremer, Leibniz-Institut für Europäische Geschichte \
-<a href="https://orcid.org/0000-0001-8251-9727"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0001-8251-9727</a>, <a href="https://twitter.com/fabian_cremer"><img alt="Twitter logo" src="https://github.com/ieg-dhr/vdhd-abstracts-labor/raw/main/files/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @fabian_cremer</a>
+<a href="https://orcid.org/0000-0001-8251-9727"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0001-8251-9727</a>, <a href="https://twitter.com/fabian_cremer"><img alt="Twitter logo" src="https://github.com/ieg-dhr/pm4dh/raw/gh-pages/assets/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @fabian_cremer</a>
 - Swantje Dogunke, Thüringer Universitäts- und Landesbibliothek (ThULB) Jena \
-<a href="https://orcid.org/0000-0002-5293-7044"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0002-5293-7044</a>, <a href="https://twitter.com/swagunke"><img alt="Twitter logo" src="https://github.com/ieg-dhr/vdhd-abstracts-labor/raw/main/files/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @swagunke</a>
+<a href="https://orcid.org/0000-0002-5293-7044"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0002-5293-7044</a>, <a href="https://twitter.com/swagunke"><img alt="Twitter logo" src="https://github.com/ieg-dhr/pm4dh/raw/gh-pages/assets/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @swagunke</a>
+- Anna Maria Neubert, Universität Bielefeld \
+<a href="https://orcid.org/0000-0002-7528-1842"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0002-7528-1842</a>, <a href="https://twitter.com/annamneubert"><img alt="Twitter logo" src="https://github.com/ieg-dhr/pm4dh/raw/gh-pages/assets/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @annamneubert</a>
 - Thorsten Wübbena, Leibniz-Institut für Europäische Geschichte \
-<a href="https://orcid.org/0000-0001-8172-6097"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0001-8172-6097</a>, <a href="https://twitter.com/ThWuebbena"><img alt="Twitter logo" src="https://github.com/ieg-dhr/vdhd-abstracts-labor/raw/main/files/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @ThWuebbena</a>
+<a href="https://orcid.org/0000-0001-8172-6097"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0001-8172-6097</a>, <a href="https://twitter.com/ThWuebbena"><img alt="Twitter logo" src="https://github.com/ieg-dhr/pm4dh/raw/gh-pages/assets/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @ThWuebbena</a>
