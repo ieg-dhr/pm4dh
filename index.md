@@ -1,7 +1,9 @@
 # Aktivitäten zu Projektmanagement in den Digital Humanities
 
 ## Aktuell: [Call für den Sammelband: Zusammenarbeit klug gestalten: Projektmanagement und Digital Humanities](https://pm4dh.net/projects/sammelband/call)
+
 Wir begrüßen Einreichungen, die sich dem Thema „Projektmanagement in den Digital Humanities“ in Form von Artikeln, Fallstudien, Konzepten, Berichten oder Beobachtungen nähern. Interessierte Autor*innen werden bis zum **09.11.2022** um ein Abstract gebeten: [zum vollständigen Call](https://pm4dh.net/projects/sammelband/call).
+
 ---
 ### Peer-to-Peer-Workshop zum Projektmanagement in den Digital Humanities, DHd 2022
 - **Abstract**: Fabian Cremer, Swantje Dogunke, Anna Neubert, und Thorsten Wübbena. „Peer-to-Peer-Workshop zum Projekt Management in den Digital Humanities“. Potsdam: Zenodo, 2022. [https://doi.org/10.5281/zenodo.6327961](https://doi.org/10.5281/zenodo.6327961).
