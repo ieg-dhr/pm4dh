@@ -37,5 +37,5 @@ Interessierte Autor\*innen, die einen Beitrag einreichen möchten, werden bis zu
 
 Die ausgearbeiteten Beiträge werden im Rahmen eines Double-blind-Review-Verfahrens begutachtet und werden schnellstmöglich nach der Fertigstellung publiziert. Hierfür erarbeiten wir gemeinsam mit BiUP und dem transcript Verlag einen kontinuierlichen Veröffentlichungsprozess. Die vorgesehene Lizenz für die Beiträge und den Band ist CC-BY (Creative Commons Attribution 4.0 International). Es wird keine Veröffentlichungsgebühr von den Autor\*innen erhoben. Den Call und aktuell gehaltene Informationen sind jederzeit unter [https://pm4dh.net/]() zu finden.
 
-Die Herausgeber\*innen
+Die Herausgeber\*innen \
 Fabian Cremer, Swantje Dogunke, Anna Maria Neubert und Thorsten Wübbena
