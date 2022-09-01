@@ -4,7 +4,7 @@
 
 Wir begrüßen Einreichungen, die sich dem Thema „Projektmanagement in den Digital Humanities“ in Form von Artikeln, Fallstudien, Konzepten, Berichten oder Beobachtungen nähern. Interessierte Autor*innen werden bis zum **09.11.2022** um ein Abstract gebeten: [zum vollständigen Call](https://pm4dh.net/projects/sammelband/call).
 
----
+## Unsere Projekte
 ### Peer-to-Peer-Workshop zum Projektmanagement in den Digital Humanities, DHd 2022
 - **Abstract**: Fabian Cremer, Swantje Dogunke, Anna Neubert, und Thorsten Wübbena. „Peer-to-Peer-Workshop zum Projekt Management in den Digital Humanities“. Potsdam: Zenodo, 2022. [https://doi.org/10.5281/zenodo.6327961](https://doi.org/10.5281/zenodo.6327961).
 - **Bericht**: Fabian Cremer, Swantje Dogunke, Jonathan Geiger, Anja Gerber, Anna Maria Neubert, Julian Schulz, und Thorsten Wübbena. „Projektmanagement in den Digital Humanities – World Café auf der DHd 2022“. Digital Humanities Lab (blog), 25. Mai 2022. [https://dhlab.hypotheses.org/2960](https://dhlab.hypotheses.org/2960).
