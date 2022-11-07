@@ -2,6 +2,8 @@
 
 ## „Zusammenarbeit klug gestalten: Projektmanagement und Digital Humanities“
 
+Aktuell: Verlängerung der Einreichungsfrist bis zum **30.11.2022**
+
 ### Thema und Hintergrund
 
 In den fächer- und institutionsübergreifenden Forschungsvorhaben der Digital Humanities (DH) zeigt sich immer wieder eine sehr hohe Komplexität und ein erhöhter Kommunikationsbedarf, um über unterschiedliche Grenzen hinweg Projekte zu realisieren. Ein zentrales Instrument zur Bewältigung dieser verschiedenen Herausforderungen, das *Projektmanagement*, spielt daher eine zunehmend wichtige Rolle in der Forschungs- und Lehrpraxis der DH. Je größer und breiter DH-Vorhaben angelegt sind, desto höher wird der Bedarf und Aufwand die Projekte zu gestalten, da neben unterschiedlichen Disziplinen und Institutionen auch die damit verbundenen theoretischen Fundamente, Methoden, Praktiken und Fachkulturen koordiniert werden müssen.
