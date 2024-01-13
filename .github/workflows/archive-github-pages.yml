@@ -7,7 +7,7 @@ run-name: Archive GitHub Pages in the Wayback Machine
 
 on:
   release:
-    types: [published]
+    types: [public]
   workflow_dispatch:
     inputs:
       dry_run:
