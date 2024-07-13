@@ -1,9 +1,6 @@
 # Aktivitäten zu Projektmanagement in den Digital Humanities
 
-## Aktuell: 
-dddd
-
-[Projekt Sammelband: Zusammenarbeit klug gestalten: Projektmanagement und Digital Humanities](https://pm4dh.net/projects/sammelband/call)
+## Aktuell: [Projekt Sammelband: Zusammenarbeit klug gestalten: Projektmanagement und Digital Humanities](https://pm4dh.net/projects/sammelband/call)
 
 Der für 2023 geplante Sammelband vereint vielfältige Beiträge, Fallstudien, Konzepte, Berichte und Beobachtungen zum Thema „Projektmanagement in den Digital Humanities“. Der vollständige Call ist [hier](https://pm4dh.net/projects/sammelband/call) erreichbar.
 
