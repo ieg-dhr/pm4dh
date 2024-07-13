@@ -1,11 +1,13 @@
 # Aktivitäten zu Projektmanagement in den Digital Humanities
 
 ## Aktuell:
-ddddd
+Der Sammelband **„Projektmanagement und Digital Humanities: Zur klugen Gestaltung der Zusammenarbeit“** ist im Mai 2024 als Band 9 der Reihe _Digital Humanities Research_ bei BUP bzw. im transcript-Verlag erschienen.   
+[DOI](https://doi.org/10.14361/9783839469675)  |  [Verlagsseite zur Publikation](https://www.transcript-verlag.de/978-3-8376-6967-1/projektmanagement-und-digital-humanities/?c=331021469)  
 
-[Projekt Sammelband: Zusammenarbeit klug gestalten: Projektmanagement und Digital Humanities](https://pm4dh.net/projects/sammelband/call)
+**Abstract**: Die Rahmenbedingungen für Projekte in den Digital Humanities können herausfordernd sein: Zum einen ist die Innovationserwartung beteiligter Institutionen und Fördergeber ungebremst. Zum anderen bedürfen die Koordination interdisziplinärer, komplexer Großvorhaben sowie der Aufbau von Forschungsinfrastruktur und -services einer Professionalisierung des Projektmanagements. Die Beiträger*innen geben Einblicke in unterschiedliche Praktiken und versammeln Sichtweisen aus der Fachcommunity. Damit gehen sie den ersten Schritt, um das Tätigkeitsfeld in den deutschsprachigen Fachdiskurs zu holen – und zeigen durch theoriegeleitete Reflexionen methodologische Ansätze zu einer Weiterentwicklung des Wissenschaftsmanagements auf.
 
-Der für 2023 geplante Sammelband vereint vielfältige Beiträge, Fallstudien, Konzepte, Berichte und Beobachtungen zum Thema „Projektmanagement in den Digital Humanities“. Der vollständige Call ist [hier](https://pm4dh.net/projects/sammelband/call) erreichbar.
+Der vorausgegangen Call ist [hier](https://pm4dh.net/projects/sammelband/call) einsehbar.
+
 
 ## Unsere Projekte
 ### Peer-to-Peer-Workshop zum Projektmanagement in den Digital Humanities, DHd 2022
