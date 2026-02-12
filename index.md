@@ -2,7 +2,7 @@
 
 ## Aktuell:
 ### Die DH als soziales Vorhaben. Prinzipien und Methoden zur Integration sozialer Faktoren in die wissenschaftliche Projektarbeit
-Poster Präsentation \
+Posterpräsentation \
 Fabian Cremer, Swantje Dogunke, Anna Maria Neubert, Thorsten Wübbena \
 DHd 2026, Wien, 26.02.2026 ab 14 Uhr
 
@@ -10,7 +10,7 @@ DHd 2026, Wien, 26.02.2026 ab 14 Uhr
 
 ### Workshop "(De-)constructing the Lab: Arbeiten in den DH", DHd 2025
 - Die Digital Humanities etablieren sich zunehmend als eigenständiger Wissenschaftszweig mit wachsender Institutionalisierung im deutschsprachigen Raum. Diese Entwicklung lässt sich an der steigenden Anzahl von Professuren und Studiengänge sowie der Gründung von Organisationseinheiten wie Instituten, Zentren und Laboren ablesen. Der Workshop widmet sich dem "laboratory turn", dient als Erfahrungsaustausch, analysiert mögliche Rollen und bietet ein Forum um eigene Idee zu entwickeln, Kooperationen zu knüpfen und partizipative Gestaltungsräume auszuloten. Das Angebot richtet sich an Akteur*innen, die bereits an DH Laboren beteiligt sind, eigene Vorhaben planen oder sich in bestehende Strukturen einbringen möchten. 
-- ** Vollständiges Abstract**: Fabian Cremer, Swantje Dogunke, Marten Düring, Anna Maria Neubert & Thorsten Wübbena. "(De-)constructing the Lab: Arbeiten in den DH". DHd 2025 Under Construction, Bielefeld, Deutschland. [https://doi.org/10.5281/zenodo.14943038](https://doi.org/10.5281/zenodo.14943038).
+- **Vollständiges Abstract**: Fabian Cremer, Swantje Dogunke, Marten Düring, Anna Maria Neubert und Thorsten Wübbena. "(De-)constructing the Lab: Arbeiten in den DH". DHd 2025 Under Construction, Bielefeld, Deutschland. [https://doi.org/10.5281/zenodo.14943038](https://doi.org/10.5281/zenodo.14943038).
 
 ### Sammelband [Projektmanagement und Digital Humanities: Zur klugen Gestaltung der Zusammenarbeit](https://doi.org/10.14361/9783839469675), 2024
 - **Abstract**: Die Rahmenbedingungen für Projekte in den Digital Humanities können herausfordernd sein: Zum einen ist die Innovationserwartung beteiligter Institutionen und Fördergeber ungebremst. Zum anderen bedürfen die Koordination interdisziplinärer, komplexer Großvorhaben sowie der Aufbau von Forschungsinfrastruktur und -services einer Professionalisierung des Projektmanagements. Die Beiträger*innen geben Einblicke in unterschiedliche Praktiken und versammeln Sichtweisen aus der Fachcommunity. Damit gehen sie den ersten Schritt, um das Tätigkeitsfeld in den deutschsprachigen Fachdiskurs zu holen – und zeigen durch theoriegeleitete Reflexionen methodologische Ansätze zu einer Weiterentwicklung des Wissenschaftsmanagements auf.
@@ -42,10 +42,10 @@ Eine Übung im Masterstudiengang [Digitale Methodik in den Geistes- und Kulturwi
 ## PM4DH-Team
 
 - Fabian Cremer, Leibniz-Institut für Europäische Geschichte \
-<a href="https://orcid.org/0000-0001-8251-9727"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0001-8251-9727</a>, <a href="https://twitter.com/fabian_cremer"><img alt="Twitter logo" src="https://github.com/ieg-dhr/pm4dh/raw/gh-pages/assets/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @fabian_cremer</a>
+<a href="https://orcid.org/0000-0001-8251-9727"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0001-8251-9727</a>
 - Swantje Dogunke, Thüringer Universitäts- und Landesbibliothek (ThULB) Jena \
-<a href="https://orcid.org/0000-0002-5293-7044"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0002-5293-7044</a>, <a href="https://twitter.com/swagunke"><img alt="Twitter logo" src="https://github.com/ieg-dhr/pm4dh/raw/gh-pages/assets/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @swagunke</a>
+<a href="https://orcid.org/0000-0002-5293-7044"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0002-5293-7044</a>
 - Anna Maria Neubert, Universität Bielefeld \
-<a href="https://orcid.org/0000-0002-7528-1842"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0002-7528-1842</a>, <a href="https://twitter.com/annamneubert"><img alt="Twitter logo" src="https://github.com/ieg-dhr/pm4dh/raw/gh-pages/assets/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @annamneubert</a>
+<a href="https://orcid.org/0000-0002-7528-1842"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0002-7528-1842</a>
 - Thorsten Wübbena, Leibniz-Institut für Europäische Geschichte \
-<a href="https://orcid.org/0000-0001-8172-6097"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0001-8172-6097</a>, <a href="https://twitter.com/ThWuebbena"><img alt="Twitter logo" src="https://github.com/ieg-dhr/pm4dh/raw/gh-pages/assets/Twitter_Social_Icon_Circle_Color.png" height="16px" width="16px"> @ThWuebbena</a>
+<a href="https://orcid.org/0000-0001-8172-6097"><img alt="ORCID logo" src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="height:16px; width:16px"> 0000-0001-8172-6097</a>
