@@ -1,15 +1,20 @@
 # Aktivitäten zu Projektmanagement in den Digital Humanities
 
 ## Aktuell:
-Der Sammelband **„Projektmanagement und Digital Humanities: Zur klugen Gestaltung der Zusammenarbeit“** ist im Mai 2024 als Band 9 der Reihe _Digital Humanities Research_ bei BUP bzw. im transcript-Verlag erschienen.   
-[DOI](https://doi.org/10.14361/9783839469675)  |  [Verlagsseite zur Publikation](https://www.transcript-verlag.de/978-3-8376-6967-1/projektmanagement-und-digital-humanities/?c=331021469)  
-
-**Abstract**: Die Rahmenbedingungen für Projekte in den Digital Humanities können herausfordernd sein: Zum einen ist die Innovationserwartung beteiligter Institutionen und Fördergeber ungebremst. Zum anderen bedürfen die Koordination interdisziplinärer, komplexer Großvorhaben sowie der Aufbau von Forschungsinfrastruktur und -services einer Professionalisierung des Projektmanagements. Die Beiträger*innen geben Einblicke in unterschiedliche Praktiken und versammeln Sichtweisen aus der Fachcommunity. Damit gehen sie den ersten Schritt, um das Tätigkeitsfeld in den deutschsprachigen Fachdiskurs zu holen – und zeigen durch theoriegeleitete Reflexionen methodologische Ansätze zu einer Weiterentwicklung des Wissenschaftsmanagements auf.
-
-Der vorausgegangen Call ist [hier](https://pm4dh.net/projects/sammelband/call) einsehbar.
-
+Poster Präsentation: **Die DH als soziales Vorhaben. Prinzipien und Methoden zur Integration sozialer Faktoren in die wissenschaftliche Projektarbeit* \
+Fabian Cremer, Swantje Dogunke, Anna Maria Neubert, Thorsten Wübbena \
+DHd 2026, Wien, 26.02.2026 ab 14 Uhr
 
 ## Unsere Projekte
+
+### Workshop "(De-)constructing the Lab: Arbeiten in den DH", DHd 2025
+- ** Abstract**: Fabian Cremer, Swantje Dogunke, Marten Düring, Anna Maria Neubert & Thorsten Wübbena (2025, February 26). "(De-)constructing the Lab: Arbeiten in den DH". DHd 2025 Under Construction, Bielefeld, Deutschland. https://doi.org/10.5281/zenodo.14943038
+
+### Sammelband „Projektmanagement und Digital Humanities: Zur klugen Gestaltung der Zusammenarbeit“, 2024
+- erschienen als Band 9 der Reihe _Digital Humanities Research_ bei BUP bzw. im transcript-Verlag erschienen: [DOI](https://doi.org/10.14361/9783839469675)  |  [Verlagsseite zur Publikation](https://www.transcript-verlag.de/978-3-8376-6967-1/projektmanagement-und-digital-humanities/?c=331021469)  
+- **Abstract**: Die Rahmenbedingungen für Projekte in den Digital Humanities können herausfordernd sein: Zum einen ist die Innovationserwartung beteiligter Institutionen und Fördergeber ungebremst. Zum anderen bedürfen die Koordination interdisziplinärer, komplexer Großvorhaben sowie der Aufbau von Forschungsinfrastruktur und -services einer Professionalisierung des Projektmanagements. Die Beiträger*innen geben Einblicke in unterschiedliche Praktiken und versammeln Sichtweisen aus der Fachcommunity. Damit gehen sie den ersten Schritt, um das Tätigkeitsfeld in den deutschsprachigen Fachdiskurs zu holen – und zeigen durch theoriegeleitete Reflexionen methodologische Ansätze zu einer Weiterentwicklung des Wissenschaftsmanagements auf.
+- Der vorausgegangen Call ist [hier](https://pm4dh.net/projects/sammelband/call) einsehbar.
+
 ### Peer-to-Peer-Workshop zum Projektmanagement in den Digital Humanities, DHd 2022
 
 - **Abstract**: Fabian Cremer, Swantje Dogunke, Anna Neubert, und Thorsten Wübbena. „Peer-to-Peer-Workshop zum Projekt Management in den Digital Humanities“. Potsdam: Zenodo, 2022. [https://doi.org/10.5281/zenodo.6327961](https://doi.org/10.5281/zenodo.6327961).

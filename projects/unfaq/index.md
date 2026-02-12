@@ -1,4 +1,3 @@
-Laufende Aktivität:
 ## Unfrequently Asked Questions
 ### Interviewreihe zu Projektmanagement in den Digital Humanities
 
